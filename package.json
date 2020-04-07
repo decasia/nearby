@@ -1,0 +1,22 @@
+{
+  "name": "nearby",
+  "version": "1.0.0",
+  "description": "websocket server for being near people",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/decasia/nearby"
+  },
+  "keywords": [
+    "social",
+    "websocket"
+  ],
+  "author": "eli thorkelson",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.2.3"
+  }
+}
